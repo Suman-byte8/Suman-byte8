@@ -1,8 +1,4 @@
 <!-- Intro SVG Banner -->
-<p align="center">
-  <img src="https://svgshare.com/i/12St.svg" alt="Hi I'm Suman" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Suman Saha</h1>
 <h3 align="center">Full-Stack MERN Developer | Smart Contract Engineer | Frontend & Backend Craftsman</h3>
 
