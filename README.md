@@ -8,7 +8,7 @@ MERN Stack Developer | Blockchain Enthusiast | Learning AI / ML & Data Science ð
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suman-saha-225958291/" target="_blank">
+  <a href="https://www.linkedin.com/in/suman-saha-130ab0267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:sumansahaweb.dev@gmail.com">
