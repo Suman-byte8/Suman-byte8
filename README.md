@@ -32,6 +32,7 @@ const Suman = {
   role: "MERN Stack Developer",
   coreStack: [
     "MongoDB",
+    "PostgreSQL",
     "Express",
     "React",
     "Node.js",
