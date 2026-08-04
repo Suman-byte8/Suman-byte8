@@ -36,7 +36,7 @@
 
 <!-- SOCIAL PROFILE BADGES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/suman-saha-130ab0267/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/suman-saha-225958291/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn Profile" />
   </a>
