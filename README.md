@@ -1,776 +1,282 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║            SUMAN SAHA — GITHUB PROFILE README                        ║
-  ║  Full Stack MERN Developer | Blockchain Enthusiast | AI/ML Learner   ║
-  ║  Last updated: 2025 | Maintained actively                            ║
-  ╚══════════════════════════════════════════════════════════════════════╝
+  Suman Saha — GitHub Profile README
+  Updated: August 2026
 -->
 
-<!-- ╔═══════════════════════════════════════╗ -->
-<!-- ║           HEADER BANNER               ║ -->
-<!-- ╚═══════════════════════════════════════╝ -->
+<div align="center">
 
-<img width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Suman%20Saha&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Blockchain%20Enthusiast%20%E2%80%A2%20AI%2FML%20Learner&descSize=17&descAlignY=58&descColor=c8dcf0"
-     alt="Suman Saha — Full Stack MERN Developer, Blockchain Enthusiast, AI/ML Learner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111f,45:0f4c81,100:00b4d8&text=Suman%20Saha&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20AI%20Learner%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=17&animation=fadeIn" alt="Suman Saha header"/>
 
-<!-- STATUS & META BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suman-byte8&label=Profile+Views&color=0F4C81&style=flat-square"
-       alt="Profile view counter" />
-  &nbsp;
+### Building useful web products, exploring data, and learning AI/ML.
+
+<p>
+  <a href="https://github.com/Suman-byte8">
+    <img src="https://komarev.com/ghpvc/?username=Suman-byte8&label=Profile%20Views&color=0f4c81&style=flat-square" alt="Profile views"/>
+  </a>
   <a href="https://github.com/Suman-byte8?tab=followers">
-    <img src="https://img.shields.io/github/followers/Suman-byte8?label=Followers&style=flat-square&color=0F4C81&logo=github&logoColor=white"
-         alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Suman-byte8?label=Followers&style=flat-square&color=0f4c81" alt="GitHub followers"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=statuspage&logoColor=white"
-       alt="Open to work" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Web3%20%7C%20AI-0F4C81?style=flat-square"
-       alt="Core stack: MERN, Web3, AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20In-West%20Bengal%2C%20India-f97316?style=flat-square"
-       alt="Location: West Bengal, India" />
+  <img src="https://img.shields.io/badge/Open%20to-Developer%20%26%20Data%20Roles-22c55e?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Location-West%20Bengal%2C%20India-f97316?style=flat-square" alt="Location"/>
 </p>
 
-<!-- SOCIAL PROFILE BADGES -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/suman-saha-225958291/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn Profile" />
-  </a>
-  &nbsp;
+<p>
   <a href="mailto:sumansahaweb.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email Suman Saha" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://sumancodes.netlify.app/home#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-         alt="Portfolio website" />
+  <a href="https://www.linkedin.com/in/suman-saha-130ab0267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sumancodes.netlify.app/home">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=MERN+Stack+Developer;Building+real-world+web+products;Learning+Data+Analytics+%26+Machine+Learning;Creating+clean%2C+responsive+and+practical+interfaces" alt="Typing introduction"/>
 
-<!-- ANIMATED TYPING BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=0F4C81&center=true&vCenter=true&repeat=true&width=660&lines=Full-Stack+MERN+Developer+%E2%9A%A1;Building+Blockchain+DApps+%26+Smart+Contracts+%E2%9B%93%EF%B8%8F;Exploring+Machine+Learning+%26+Data+Science+%F0%9F%A4%96;Crafting+Pixel-Perfect+UIs+%F0%9F%8E%A8;Open+Source+Contributor+%26+Collaborator+%F0%9F%8C%90"
-       alt="Animated typing: Full-Stack MERN Developer, Blockchain, AI/ML, UI Dev, Open Source" />
-</p>
+</div>
 
 ---
 
-## 📋 Table of Contents
+## About Me
 
-| # | Section | What's Inside |
-|---|---------|---------------|
-| 01 | [🧠 About Me](#-about-me) | Background, values & developer identity |
-| 02 | [🔧 Tech Arsenal](#-tech-arsenal) | Full breakdown of my stack by domain |
-| 03 | [✨ Featured Projects](#-featured-projects) | 4 highlighted builds with architecture notes |
-| 04 | [🚀 Quick Start](#-quick-start) | Clone & run any of my projects in under 5 min |
-| 05 | [🏗️ Development Workflow](#️-development-workflow) | How I architect, build, and ship software |
-| 06 | [📊 GitHub Analytics](#-github-analytics) | Stats, streak, language breakdown & activity |
-| 07 | [🗺️ Roadmap & Currently Building](#%EF%B8%8F-roadmap--currently-building) | Active projects + 2025 learning plan |
-| 08 | [🌊 Contribution Activity](#-contribution-activity) | Snake animation of my GitHub contributions |
-| 09 | [🤝 Collaboration Guide](#-collaboration-guide) | PR process, commit standards, issue labels |
-| 10 | [📬 Let's Connect](#-lets-connect) | Reach out — DMs are open |
+I am **Suman Saha**, a full-stack developer from West Bengal, India. My primary experience is in building responsive websites and MERN applications, including dashboards, booking systems, e-commerce experiences, content platforms, and admin panels.
 
----
+Alongside web development, I am developing practical skills in **Python, SQL, Power BI, data analysis, machine learning, FastAPI, and PostgreSQL**. My goal is to combine software engineering with data and AI to build products that solve real problems.
 
-## 🧠 About Me
-
-<img align="right" width="320"
-     src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df1d4baf68697fb35a1dcd4/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
-     alt="Animated developer at work" />
-
-Hey, I'm **Suman** — a full-stack developer from **West Bengal, India** who builds things for the web, the blockchain, and eventually the machines 🤖.
-
-My core is the **MERN stack**, but I enjoy exploring across the whole product surface — from database schema design to crafting interfaces that feel fast and sharp. Currently expanding into **Blockchain / Web3** with Solidity & Hardhat, and working through the fundamentals of **Machine Learning and Data Science** end-to-end.
-
-**What drives me:**
-- 🏗️ Building products that actually get used — not just demos
-- 🧹 Writing code that future-me won't need to rewrite from scratch
-- 📖 Learning in public and sharing what I discover along the way
-- 🎨 Making UIs that look deceptively simple but work beautifully
-
-<br clear="right"/>
-
-```js
+```javascript
 const suman = {
-  role     : "MERN Stack Developer",
-  location : "West Bengal, India 🇮🇳",
-
-  coreStack : [
-    "MongoDB", "PostgreSQL",
-    "Express.js", "React",
-    "Node.js", "TypeScript",
-  ],
-
-  currentlyBuilding : [
-    "NFT-integrated ride booking platform ⛓️",
-    "End-to-end ML workflows for real-world use cases 🤖",
-    "Data analysis pipelines with Python, NumPy & Pandas 📊",
-  ],
-
-  learning : [
-    "Data Analytics", "Machine Learning",
-    "Smart Contract best practices (Hardhat)",
-    "Scikit-Learn & model evaluation",
-  ],
-
-  openTo : [
-    "Freelance projects",
-    "Open source collaboration",
-    "Blockchain / Web3 DApps",
-    "Beginner-friendly AI / Data Science projects",
-  ],
-
-  funFact  : "I debug best with lo-fi music and a cold cup of tea ☕",
-  contact  : "sumansahaweb.dev@gmail.com",
+  role: "Full-Stack Developer",
+  location: "West Bengal, India",
+  core: ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
+  dataStack: ["Python", "SQL", "Pandas", "Power BI", "PostgreSQL"],
+  learning: ["Machine Learning", "FastAPI", "System Design"],
+  interests: ["Web Products", "Data Analytics", "AI/ML", "Open Source"],
+  openTo: ["Developer Roles", "Data Internships", "Freelance Projects"]
 };
 ```
 
-<br/>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>⚡ Primary Stack</th>
-      <th>⛓️ Blockchain</th>
-      <th>🎨 Design</th>
-      <th>🤖 AI / ML</th>
-      <th>🌐 Projects Shipped</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">MERN + TypeScript</td>
-      <td align="center">Solidity / Hardhat</td>
-      <td align="center">Figma + Blender</td>
-      <td align="center">Actively Learning 🔄</td>
-      <td align="center">4 Live ✅</td>
-    </tr>
-  </tbody>
-</table>
-
 ---
 
-## 🔧 Tech Arsenal
+## Tech Stack
 
-> My complete toolkit, organized by domain.
+<div align="center">
 
-### 🎨 Frontend
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql&perline=6" alt="Languages"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,figma&perline=6" alt="Frontend technologies"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,firebase&perline=6" alt="Backend and databases"/>
+
+### Data & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,figma&perline=8"
-       alt="Frontend icons: React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Figma" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI"/>
 </p>
 
-### ⚙️ Backend & Databases
+### Tools & Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase&perline=8"
-       alt="Backend icons: Node.js, Express, MongoDB, PostgreSQL, Firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,docker,photoshop,illustrator&perline=9" alt="Tools and deployment"/>
 
-### ⛓️ Blockchain & Web3
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity&perline=8"
-       alt="Solidity" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=ethereum&logoColor=black"
-       alt="Hardhat" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"
-       alt="IPFS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"
-       alt="Web3.js" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white"
-       alt="MetaMask" />
-</p>
-
-### 🤖 AI / Data Science *(Actively Learning)*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python&perline=8"
-       alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-       alt="NumPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-       alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-       alt="Scikit-Learn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
-       alt="Matplotlib" />
-</p>
-
-### 🛠️ DevTools & Creative
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,blender,photoshop,illustrator&perline=8"
-       alt="DevTools: Git, GitHub, Vercel, Blender, Photoshop, Illustrator" />
-</p>
+</div>
 
 ---
 
-## ✨ Featured Projects
-
-> A selection of my most meaningful builds — each solving a real problem.
-
----
-
-### 🎓 EduQuest — Full MERN E-Learning Platform
-
-<details>
-<summary><b>📂 View architecture, features & details</b></summary>
-
-<br/>
-
-**EduQuest** is a production-grade e-learning platform on the MERN stack enabling course creation, enrollment, real-time progress tracking, and tiered role management.
-
-**Core Features**
-
-| Feature | Description |
-|---------|-------------|
-| 🔐 Auth & Roles | JWT-based authentication with Student / Instructor / Admin tiers |
-| 📹 Content Delivery | Structured course modules with progress tracking per user |
-| 💳 Payments | Gateway integration for course purchase flows |
-| 📱 Responsive UI | Tailwind-based layout optimized across all viewport sizes |
-| 🔍 Search & Filter | Course discovery with category and skill-level filters |
-
-**Monorepo Architecture**
-
-```
-eduquest/
-├── client/                    # React SPA (Vite + TypeScript)
-│   ├── src/
-│   │   ├── components/        # Reusable UI components
-│   │   ├── pages/             # Route-level page components
-│   │   ├── hooks/             # Custom React hooks
-│   │   ├── store/             # Global state (Context / Redux)
-│   │   └── utils/             # Helpers, formatters, validators
-│   └── vite.config.ts
-│
-├── server/                    # Express.js REST API
-│   ├── routes/                # API route definitions
-│   ├── controllers/           # Business logic handlers
-│   ├── models/                # Mongoose schemas (User, Course, Enrollment)
-│   ├── middleware/            # Auth, error handling, rate limiting
-│   └── config/                # DB connection, env config
-│
-└── README.md
-```
-
-**Tech Stack:** `MongoDB` · `Express.js` · `React` · `Node.js` · `JWT` · `Tailwind CSS`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suman-byte8)
-
-</details>
-
----
-
-### 🖼️ FrameCraft — Custom Shopify Storefront
-
-<details>
-<summary><b>📂 View architecture, features & details</b></summary>
-
-<br/>
-
-A fully custom **Shopify theme** built with Liquid templating and Tailwind CSS for a premium art frames product line. Prioritizes performance, conversion, and a premium feel.
-
-**Core Features**
-
-| Feature | Description |
-|---------|-------------|
-| 🎨 Custom Liquid Sections | Built-from-scratch theme sections and blocks — no Debut/Dawn base |
-| ⚡ Optimized Images | Responsive `srcset` delivery with native lazy loading |
-| 📐 Product Configurator | Custom UI for frame size & material selection |
-| 🛒 Enhanced Cart UX | Live cart updates, quantity controls, persistent cart state |
-| 📊 Analytics Hooks | Storefront event tracking via Shopify Analytics |
-
-**Theme Architecture**
-
-```
-framecraft-theme/
-├── assets/               # CSS, JS bundles, fonts, SVGs
-├── config/               # Theme settings schema
-├── layout/               # theme.liquid (root shell)
-├── sections/             # Reusable page sections
-│   ├── hero-banner.liquid
-│   ├── product-grid.liquid
-│   └── product-configurator.liquid
-├── snippets/             # Reusable partials
-├── templates/            # Page, product, collection templates
-└── locales/              # i18n translation strings
-```
-
-**Tech Stack:** `Shopify Liquid` · `Tailwind CSS` · `Vanilla JavaScript`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suman-byte8)
-
-</details>
-
----
-
-### ⛓️ NFT Warranty System — Blockchain-Backed eCommerce
-
-<details>
-<summary><b>📂 View architecture, features & details</b></summary>
-
-<br/>
-
-A decentralized warranty management system where warranties are minted as **NFTs on-chain** — verifiable, transferable, and tamper-proof without any trusted third party.
-
-**Core Features**
-
-| Feature | Description |
-|---------|-------------|
-| 🔐 On-Chain Warranties | Warranties minted as ERC-721 NFTs on purchase |
-| 🌐 IPFS Metadata | Product & warranty metadata stored immutably on IPFS |
-| 🦊 Web3 Auth | MetaMask-based wallet authentication — no passwords |
-| 🔄 NFT Transfers | Warranty follows the product when ownership transfers |
-| ✅ Claim Verification | On-chain claim status — no central authority needed |
-
-**System Data Flow**
-
-```
-┌───────────────────────────────────────────────────────────────────┐
-│  PURCHASE FLOW                                                    │
-│  Customer Buys Product  →  Smart Contract Mints NFT Warranty      │
-│                         →  Metadata stored on IPFS               │
-│                         →  NFT sent to buyer's wallet            │
-├───────────────────────────────────────────────────────────────────┤
-│  TRANSFER FLOW                                                    │
-│  Owner Transfers Product  →  NFT Transferred to New Wallet        │
-│                           →  New owner inherits warranty rights  │
-├───────────────────────────────────────────────────────────────────┤
-│  CLAIM FLOW                                                       │
-│  Owner Initiates Claim  →  Contract verifies NFT ownership        │
-│                         →  Claim event emitted on-chain          │
-│                         →  Resolution process begins             │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-**Tech Stack:** `Solidity` · `Hardhat` · `IPFS` · `Web3.js` · `React` · `Node.js`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suman-byte8)
-
-</details>
-
----
-
-### 🖼️ Bulk Image Converter — 100% Client-Side
-
-<details>
-<summary><b>📂 View architecture, features & details</b></summary>
-
-<br/>
-
-A zero-dependency, zero-backend image format converter built in **pure Vanilla JS**. All processing happens in the browser — no files ever leave the user's machine.
-
-**Core Features**
-
-| Feature | Description |
-|---------|-------------|
-| 🔒 Privacy First | 100% client-side — no uploads, no server, no tracking |
-| 🖼️ HEIC Support | HEIC/HEIF → JPEG/PNG via WebAssembly decoder |
-| 📦 Bulk Convert | Process entire batches and download as a single ZIP |
-| 👁️ Live Preview | Instant preview of converted output before download |
-| ⚡ No Install | Runs directly in the browser — nothing to install |
-
-**Browser Processing Pipeline**
-
-```
-File Input (drag & drop / picker)
-        │
-        ▼
-Format Detection (MIME type + magic bytes)
-        │
-        ├── HEIC/HEIF  →  WASM Decoder  →  Canvas Render
-        ├── PNG/JPG    →  FileReader API  →  Canvas Render
-        └── Other      →  Format Error feedback
-                │
-                ▼
-        Canvas → Blob (target format)
-                │
-                ▼
-        JSZip → ZIP Archive → Download trigger
-```
-
-**Tech Stack:** `Vanilla JavaScript` · `WebAssembly` · `Canvas API` · `Python (CLI version)`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suman-byte8)
-
-</details>
-
----
-
-## 🚀 Quick Start
-
-> Get any of my projects running locally in under 5 minutes.
-
-<details open>
-<summary><b>⚙️ MERN Stack Projects</b></summary>
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/Suman-byte8/<repo-name>.git
-cd <repo-name>
-
-# 2. Install all dependencies (root + client + server)
-npm install
-cd client && npm install && cd ..
-cd server && npm install && cd ..
-
-# 3. Configure environment variables
-cp server/.env.example server/.env
-# → Fill in: MONGO_URI, JWT_SECRET, PORT
-
-# 4. Run development servers (concurrently)
-npm run dev
-# Client:  http://localhost:5173
-# Server:  http://localhost:5000
-```
-
-</details>
-
-<details>
-<summary><b>⛓️ Solidity / Hardhat Projects</b></summary>
-
-```bash
-# 1. Clone and install
-git clone https://github.com/Suman-byte8/<repo-name>.git
-cd <repo-name>
-npm install
-
-# 2. Start a local Hardhat node
-npx hardhat node
-
-# 3. Deploy contracts to the local network
-npx hardhat run scripts/deploy.js --network localhost
-
-# 4. Run the test suite
-npx hardhat test
-# Expected: All tests passing ✓
-
-# 5. Connect MetaMask to localhost:8545 (Chain ID: 31337)
-```
-
-</details>
-
-<details>
-<summary><b>🐍 Python / Data Science Projects</b></summary>
-
-```bash
-# 1. Clone and enter directory
-git clone https://github.com/Suman-byte8/<repo-name>.git
-cd <repo-name>
-
-# 2. Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate        # macOS / Linux
-# or: venv\Scripts\activate     # Windows
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Launch Jupyter Notebook (if applicable)
-jupyter notebook
-
-# 5. Or run the script directly
-python main.py
-```
-
-</details>
-
-<details>
-<summary><b>🐳 Docker (where available)</b></summary>
-
-```bash
-# Clone and build
-git clone https://github.com/Suman-byte8/<repo-name>.git
-cd <repo-name>
-
-# Build and start all services
-docker-compose up --build
-
-# Stop containers
-docker-compose down
-```
-
-</details>
-
----
-
-## 🏗️ Development Workflow
-
-> How I go from idea to shipped product — consistently.
-
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B[Research &\nRequirements]
-    B --> C[Architecture\n& Design]
-    C --> D[Repo Setup\n& Tooling]
-    D --> E[Build Core\nFeatures]
-    E --> F{Code Review\n& Tests}
-    F -- Issues Found --> E
-    F -- Approved --> G[Staging\nDeploy]
-    G --> H{QA &\nFeedback}
-    H -- Revisions --> E
-    H -- Ship It! --> I([🚀 Production])
-    I --> J[Monitor &\nIterate]
-    J --> E
-
-    style A fill:#0F4C81,color:#fff,stroke:#0F4C81
-    style I fill:#22c55e,color:#fff,stroke:#22c55e
-    style F fill:#f97316,color:#fff,stroke:#f97316
-    style H fill:#f97316,color:#fff,stroke:#f97316
-```
-
-**My Engineering Principles**
-
-```
-📐  Architecture First  →  Think before you type. Draw the system first.
-🧪  Test As You Go      →  Catch bugs in development, not production.
-📝  Document Always     →  Your future self and contributors will thank you.
-🔄  Ship Small, Often   →  Frequent focused PRs beat massive rewrites.
-♻️  DRY + SOLID         →  Write code once, compose it everywhere.
-🔍  Read the Errors     →  Stack traces tell you exactly what to fix.
-```
-
----
-
-## 📊 GitHub Analytics
-
-<!-- Row 1: Main Stats + Streak -->
-<p align="center">
-  <img height="172"
-       src="https://github-readme-stats.vercel.app/api?username=Suman-byte8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-       alt="Suman Saha's GitHub stats: commits, PRs, issues, and contribution rank" />
-  &nbsp;&nbsp;
-  <img height="172"
-       src="https://streak-stats.demolab.com/?user=Suman-byte8&theme=tokyonight&hide_border=true"
-       alt="Suman Saha's GitHub streak — current and longest contribution streak" />
-</p>
-
-<!-- Row 2: Top Languages -->
-<p align="center">
-  <img height="172"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-byte8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-       alt="Suman Saha's most used programming languages by repository" />
-</p>
-
-<!-- Row 3: GitHub Trophies -->
-<p align="center">
-  <img width="100%"
-       src="https://github-profile-trophy.vercel.app/?username=Suman-byte8&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"
-       alt="Suman Saha's GitHub achievement trophies" />
-</p>
-
-<!-- Row 4: Activity Graph -->
-<p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Suman-byte8&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph"
-       alt="Suman Saha's GitHub contribution activity graph — commits over time" />
-</p>
-
----
-
-## 🗺️ Roadmap & Currently Building
-
-### 🔥 Active Projects
-
-| # | Project | Status | Stack | Target |
-|---|---------|--------|-------|--------|
-| 1 | NFT Ride Booking Platform | 🔄 In Progress | Solidity, IPFS, React, Node.js | Q3 2025 |
-| 2 | End-to-end ML Workflow | 🔄 Learning | Python, Pandas, Scikit-Learn | Q3 2025 |
-| 3 | Data Visualization Dashboard | 📋 Planning | Python, Matplotlib, Streamlit | Q4 2025 |
-| 4 | Smart Contract Security Auditing Practice | 📋 Planned | Hardhat, Slither | Q4 2025 |
-
-### 📅 2025 Learning Roadmap
-
-```
-2025 Learning Roadmap — Suman Saha
-──────────────────────────────────────────────────────────────────────
- Q1  ██████████  MERN Advanced Patterns & Architecture   ✅ Complete
- Q1  ██████████  TypeScript Deep Dive                    ✅ Complete
- Q2  ████████░░  Smart Contracts (Hardhat + Solidity)    🔄 Active
- Q2  ██████░░░░  Python for Data Science Foundations     🔄 Active
- Q3  ░░░░░░░░░░  Machine Learning Fundamentals           📅 Planned
- Q3  ░░░░░░░░░░  NFT & DeFi Protocol Development         📅 Planned
- Q4  ░░░░░░░░░░  Full ML Project End-to-End              📅 Planned
- Q4  ░░░░░░░░░░  Advanced AI API Integration             📅 Planned
-──────────────────────────────────────────────────────────────────────
- Legend:  ██ Done   ▓░ In Progress   ░░ Planned
-```
-
----
-
-## 🌊 Contribution Activity
-
-<!-- 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  SETUP REQUIRED — Contribution Snake Animation               ║
-  ║                                                              ║
-  ║  1. Create .github/workflows/snake.yml in this repo:         ║
-  ║     https://github.com/Platane/snk                          ║
-  ║                                                              ║
-  ║  snake.yml contents:                                         ║
-  ║  ─────────────────────────────────────────────────────────── ║
-  ║  on:                                                         ║
-  ║    schedule:                                                 ║
-  ║      - cron: "0 */12 * * *"                                  ║
-  ║    workflow_dispatch:                                        ║
-  ║  jobs:                                                       ║
-  ║    generate:                                                 ║
-  ║      uses: Platane/snk/workflows/generate.yml@v3             ║
-  ║      with:                                                   ║
-  ║        github_user_name: Suman-byte8                         ║
-  ║        outputs: |                                            ║
-  ║          dist/snake.svg                                      ║
-  ║          dist/snake-dark.svg?palette=github-dark             ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/Suman-byte8/Suman-byte8/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://github.com/Suman-byte8/Suman-byte8/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation — every commit counts"
-       src="https://github.com/Suman-byte8/Suman-byte8/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-## 🤝 Collaboration Guide
-
-> I believe great software is built collaboratively. Here's how to work with me.
-
-### 💼 I'm Open To
+## Selected Projects
 
 <table>
-  <tr>
-    <td>🔧 <b>Freelance Web Development</b></td>
-    <td>Full-stack MERN apps, pixel-perfect UI implementation, Shopify customization</td>
-  </tr>
-  <tr>
-    <td>⛓️ <b>Blockchain / Web3 Projects</b></td>
-    <td>Smart contract development, NFT systems, DeFi integrations, wallet UX</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>AI & Data Science Collabs</b></td>
-    <td>Beginner-to-intermediate ML projects, data pipelines, analysis & visualization</td>
-  </tr>
-  <tr>
-    <td>🌐 <b>Open Source Contributions</b></td>
-    <td>Bug fixes, documentation improvements, feature additions to tools I use</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Silver Arcade Premier
+
+A full-stack hotel platform with dynamic content management, reservation workflows, authentication, media uploads, and an admin dashboard.
+
+**Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT, Cloudinary
+
+<a href="https://silverarcadepremier.com/">
+  <img src="https://img.shields.io/badge/Live%20Website-Visit-0f4c81?style=flat-square&logo=googlechrome&logoColor=white" alt="Silver Arcade Premier"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚕 Online Cab Booking System
+
+A MERN-based booking application with real-time ride interactions, Socket.IO communication, user authentication, and emergency-support features.
+
+**Stack:** React, Node.js, Express, MongoDB, Socket.IO, GSAP
+
+<a href="https://github.com/Suman-byte8?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-GitHub-181717?style=flat-square&logo=github" alt="GitHub repositories"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ SchemeBangla
+
+A citizen-focused website that organizes West Bengal government scheme information into searchable, accessible pages with structured SEO.
+
+**Stack:** React, Vite, Tailwind CSS, React Router, structured data
+
+<a href="https://schemebangla.com/">
+  <img src="https://img.shields.io/badge/Live%20Website-Visit-0f4c81?style=flat-square&logo=googlechrome&logoColor=white" alt="SchemeBangla"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏍️ AutoBeat
+
+An automobile content platform built for fast article discovery, reusable content components, responsive advertisements, and search-engine visibility.
+
+**Stack:** React, Vite, JavaScript, SEO, responsive UI
+
+<a href="https://autobeat.in/">
+  <img src="https://img.shields.io/badge/Live%20Website-Visit-0f4c81?style=flat-square&logo=googlechrome&logoColor=white" alt="AutoBeat"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Harmoniq
+
+An open-source music-player backend focused on search, stream resolution, caching, rate limiting, and a lightweight authentication-free architecture.
+
+**Stack:** Node.js, Express, yt-dlp, ytmusicapi, node-cache
+
+<a href="https://github.com/Suman-byte8?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20on-GitHub-181717?style=flat-square&logo=github" alt="Explore repositories"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ FIFA World Cup Predictor
+
+A machine-learning project that combines team rankings, ratings, market values, Poisson regression, and Monte Carlo simulation to model tournament outcomes.
+
+**Stack:** Python, Pandas, NumPy, Scikit-learn, Jupyter
+
+<a href="https://github.com/Suman-byte8?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20on-GitHub-181717?style=flat-square&logo=github" alt="Explore repositories"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🔊 VS Code Error Sound Alert
+
+A VS Code extension that detects failed terminal commands and plays an audio alert, helping developers notice runtime and command errors immediately.
+
+**Stack:** TypeScript / JavaScript, VS Code Extension API
+
+<a href="https://github.com/Suman-byte8/Vscode-Audio-Extension">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github" alt="VS Code extension source"/>
+</a>
+
+</td>
+</tr>
 </table>
 
-### 🛠️ Contributing to My Projects
+> More repositories and experiments are available on my [GitHub repositories page](https://github.com/Suman-byte8?tab=repositories).
 
-```bash
-# Fork → Clone → Branch → Code → PR
+---
 
-# 1. Fork the repo on GitHub, then clone your fork
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+## Current Focus
 
-# 2. Add the upstream remote
-git remote add upstream https://github.com/Suman-byte8/<repo-name>.git
+```text
+Web Development
+├── Building production-ready MERN applications
+├── Improving architecture and reusable component design
+└── Strengthening API security and deployment workflows
 
-# 3. Create a clearly named feature branch
-git checkout -b feature/add-user-auth
-# or: bugfix/fix-cart-total
-# or: docs/update-api-readme
+Data & AI
+├── Analysing real datasets with Python and SQL
+├── Building Power BI dashboards
+├── Learning machine-learning workflows and evaluation
+└── Exploring FastAPI + PostgreSQL for data products
 
-# 4. Make your changes, then commit with Conventional Commits
-git add .
-git commit -m "feat: add JWT-based user authentication"
-#   Types: feat | fix | docs | style | refactor | test | chore
-
-# 5. Sync with upstream before pushing
-git fetch upstream
-git rebase upstream/main
-
-# 6. Push and open a Pull Request
-git push origin feature/add-user-auth
-```
-
-### 📏 Standards & Conventions
-
-| Area | Standard |
-|------|----------|
-| **Commits** | [Conventional Commits](https://www.conventionalcommits.org/) — `feat:`, `fix:`, `docs:`, `chore:` |
-| **Branches** | `feature/`, `bugfix/`, `hotfix/`, `docs/` prefixes |
-| **Code Style** | ESLint + Prettier (config shipped in every repo) |
-| **PRs** | Clear description · screenshots for UI changes · passing CI |
-| **Issues** | Use provided templates — bug report / feature request / question |
-
-### 🏷️ Issue Priority Labels
-
-```
-🔴  [P0] Critical     →  Blocking production use — addressed immediately
-🟠  [P1] High         →  Core feature broken — next sprint priority
-🟡  [P2] Medium       →  Non-blocking bug or improvement — scheduled
-🟢  [P3] Low          →  Nice-to-have polish — when capacity allows
-📘  [Help Wanted]     →  Well-defined issue open for community PRs
-📗  [Good First Issue] →  Perfect entry point for new contributors
+Career
+├── Moving toward data-focused development roles
+├── Building portfolio-quality analytics projects
+└── Contributing to useful open-source projects
 ```
 
 ---
 
-## 📬 Let's Connect
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suman-byte8&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" alt="GitHub statistics"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Suman-byte8&theme=transparent&hide_border=true&ring=0EA5E9&fire=F97316&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub streak"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-byte8&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top languages"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suman-byte8&bg_color=transparent&color=94a3b8&line=0ea5e9&point=38bdf8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## Contribution Snake
 
 <p align="center">
-  Got a project idea? Want to collaborate? Just want to talk tech?<br/>
-  <b>Reach out — I reply to everyone.</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suman-byte8/Suman-byte8/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suman-byte8/Suman-byte8/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Suman-byte8/Suman-byte8/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/suman-saha-130ab0267/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Connect with Suman on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:sumansahaweb.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email Suman Saha" />
-  </a>
-  &nbsp;
-  <a href="https://sumancodes.netlify.app/home#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"
-         alt="Suman Saha's portfolio website" />
-  </a>
-</p>
+> This section will appear after the `output` branch is generated by the snake-animation GitHub Action.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+I am open to **developer roles, data analytics internships, freelance projects, and practical open-source collaboration**.
 
 <br/>
 
-<!-- RANDOM DEV QUOTE -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-       alt="Rotating developer inspiration quote" />
-</p>
+<a href="mailto:sumansahaweb.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
+<a href="https://www.linkedin.com/in/suman-saha-130ab0267/">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://sumancodes.netlify.app/home">
+  <img src="https://img.shields.io/badge/View-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- ANIMATED FOOTER WAVE -->
-<img width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer"
-     alt="Profile footer wave decoration" />
+**Thanks for visiting. Explore my repositories and feel free to connect.**
 
-<!--
-  ════════════════════════════════════════════════════════════
-   Thanks for visiting! ⭐ Drop a star on anything you find useful.
-  ════════════════════════════════════════════════════════════
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,45:0f4c81,100:00b4d8" alt="Footer wave"/>
+
+</div>
